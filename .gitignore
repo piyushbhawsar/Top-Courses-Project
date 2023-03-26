@@ -10,6 +10,7 @@ node_modules
 
 /tailwind.config.js
 tailwind.config.js
+.gitignore
 # testing
 /coverage
 
